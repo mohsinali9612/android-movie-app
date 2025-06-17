@@ -1,0 +1,5 @@
+package com.example.utils_extension.utils
+
+import androidx.compose.animation.AnimatedContentTransitionScope
+
+typealias SlideDirection = AnimatedContentTransitionScope.SlideDirection
